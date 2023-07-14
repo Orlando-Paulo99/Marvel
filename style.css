@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+header h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: relative;
+    right: 160px;
+}
+header img{
+    position: relative;
+    right: 300px;
+       
+    
+}
+
+header{
+    
+    height: 170px;
+    top:0;
+    background: linear-gradient(10deg, black, red);
+    right: 0;
+    left: 0;
+    position: absolute;
+    width: 1077px;
+
+}
+
+video{
+    width: 100%;
+    max-width: 32rem;
+}
+
+.container1{
+    position: relative;
+    left: 600px;
+    float: left;
+    margin-top: 5%;
+
+}
+
+body{
+   /** background: linear-gradient(20deg, red, black);*/
+   background: linear-gradient(80deg, red,black);
+    position: relative;
+    top: 0;
+    width: 500px;
+
+}
+.container2{
+    position: relative;
+    top: 50px;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+strong{
+    color:aliceblue;
+}
+
+.fotoHF{
+    position: relative;
+    left: 600px;
+    top: 230px;
+    width: 100px;
+}
+
+.homemdeferro{
+    float: left;
+    position: relative;
+    width: 800px
+    margin:20px 0 0 20px;
+    padding: 10px;
+
+}
+
+.fotoHM{
+    position: relative;
+    left: 600px;
+    top:218px;
+    width: 100px;
+
+}
+
+.spider{
+    
+
+    position: relative;
+
+    top: -150px;
+    width: 900px
+    margin:20px 0 0 20px;
+    padding: 10px;
+
+   
+
+}
+
+
+.fotoTHOR{
+    position: relative;
+    left: 600px;
+    top:218px;    
+
+    
+}
+
+.thor{
+    float: left;
+    position: relative;
+    width: 900px
+    margin:20px 0 0 20px;
+    padding: 10px;
+    top:-280px;
+
+}
+
+.sub{
+  
+    position: relative;
+    left: 350px;
+    top: 150px;
+    color: aliceblue;
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    height: 100px;
+}
+
+
+
+
+
